@@ -12,4 +12,3 @@ A inteligência artificial (IA) é um campo fascinante e em constante evolução
 ## Deep Learning
 -> Também as máquinas aprendem sozinhas incluindo os atributos
 -> É uma simulação do cérebro (hierarquia) 
-
